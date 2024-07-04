@@ -4,9 +4,14 @@
 
 ## Introduction
 
+- The client is PowerCo - a major gas and electricity utility that supplies to small and medium-sized enterprises.
+- The energy market has had a lot of change in recent years and there are more options than ever for customers to choose from.
+- PowerCo is concerned about its customers leaving for better offers from other energy providers. When a customer leaves to use another service provider, this is called churn.
+- This is becoming a big issue for PowerCo and they have engaged BCG to help diagnose the reason why their customers are churning.
+
 ### 1. Business Understanding & Problem Framing:
 
-PowerCo is concerned about customers leaving for better offers from other energy providers. We aim to diagnose the reasons behind this churn and provide actionable insights to reduce it.
+PowerCo is concerned about customers leaving for better offers from other energy providers. I aim to diagnose the reasons behind this churn and provide actionable insights to reduce it.
 
 ### Key Reasons for Customer Churn:
 
@@ -21,7 +26,7 @@ PowerCo is concerned about customers leaving for better offers from other energy
 
 ### 2. Data Requirements: 
 
-To investigate these reasons, we will need the following data from Powerco:
+To investigate these reasons, the following data was initially requested from Powerco:
 
 - **Customer Demographics:** Age, gender, business type, and location.
 - **Customer Transaction Data:** Historical purchase data, energy consumption, billing amounts, and payment history.
