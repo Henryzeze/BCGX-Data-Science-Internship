@@ -62,3 +62,44 @@ The final step will involve interpreting the model results to identify key drive
 - **Geospatial Analysis:** Maps showing churn rates by location.
 
 By leveraging these steps, I aim to provide a comprehensive analysis that helps PowerCo understand the reasons behind customer churn and implement effective strategies to mitigate it.
+
+## Task 1
+
+The client Powerco sent over 3 data sets (shown below):
+
+- Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
+- Historical pricing data: variable and fixed pricing data etc
+- Churn indicator: whether each customer has churned or not
+
+Am tasked to run an analysis on the datasets using Python:
+
+- The data types of each column
+- Descriptive statistics of the dataset
+- Distributions of columns
+- Visualizations
+
+[Task One Analysis Report on Jupyter Notebook](link)
+
+## Task 2
+
+As part of my task, I focused on creating new features for my analysis and prepared a comprehensive Python script to achieve this. Here is a summary of the tasks I completed:
+
+First, I examined the datasets to identify columns that could be removed.
+
+Upon looking at the dataset, I could not identify any columns that were not relevant to the analysis or had only one unique value, making them redundant.
+
+Second, I expanded the datasets by creating new features from existing columns.
+
+For instance, I had "date" columns in the raw data that were not useful in their original form. I extracted valuable components from these date columns, such as the month, day of the month, day of the year, and the year, and created individual columns for each. These new features provided more granular insights and improved the dataset's usability.
+
+Third, I combined some columns to create "better" columns.
+
+To define a "better" column, I focused on columns that could improve the accuracy of the predictive churn model. I experimented with various combinations of columns, looking for pairs that shared similar information or complemented each other. For example, I combined columns related to customer activity and transaction history to create new features that better represented customer engagement and purchasing patterns.
+
+Finally, I combined the datasets using common columns for joining.
+
+I identified columns that featured in both datasets and shared the same values, which allowed me to join them effectively. This merging process resulted in a more comprehensive dataset, incorporating all relevant information into a single, unified dataset.
+
+Throughout these steps, I maintained a clear framework for feature engineering, ensuring each new feature added value to the analysis. I documented the process thoroughly and uploaded the completed Python file for review.
+
+[Task Two Feature Engineering on Jupyter Notebook](link)
