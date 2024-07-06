@@ -103,3 +103,12 @@ I identified columns that featured in both datasets and shared the same values, 
 Throughout these steps, I maintained a clear framework for feature engineering, ensuring each new feature added value to the analysis. I documented the process thoroughly and uploaded the completed Python file for review.
 
 [Task Two Feature Engineering on Jupyter Notebook](link)
+
+## Task 3
+
+I was tasked to:
+
+- Train a random forest classifier to predict churn
+- Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
+
+[Task Three prediction using classification and random forest on Jupyter Notebook](link)
