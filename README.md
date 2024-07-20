@@ -78,7 +78,7 @@ Am tasked to run an analysis on the datasets using Python:
 - Distributions of columns
 - Visualizations
 
-[Task One Analysis Report on Jupyter Notebook](link)
+[Task One Analysis Report on Jupyter Notebook](https://github.com/Henryzeze/BCGX-Data-Science-Internship/blob/main/Task_2_eda_completed.ipynb)
 
 ## Task 2
 
@@ -102,7 +102,7 @@ I identified columns that featured in both datasets and shared the same values, 
 
 Throughout these steps, I maintained a clear framework for feature engineering, ensuring each new feature added value to the analysis. I documented the process thoroughly and uploaded the completed Python file for review.
 
-[Task Two Feature Engineering on Jupyter Notebook](link)
+[Task Two Feature Engineering on Jupyter Notebook](https://github.com/Henryzeze/BCGX-Data-Science-Internship/blob/main/Task_3_feature_engineering_done.ipynb)
 
 ## Task 3
 
@@ -111,4 +111,4 @@ I was tasked to:
 - Train a random forest classifier to predict churn
 - Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
 
-[Task Three prediction using classification and random forest on Jupyter Notebook](link)
+[Task Three prediction using classification and random forest on Jupyter Notebook](https://github.com/Henryzeze/BCGX-Data-Science-Internship/blob/main/Task_4_modeling_Completed.ipynb)
