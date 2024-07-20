@@ -112,3 +112,8 @@ I was tasked to:
 - Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
 
 [Task Three prediction using classification and random forest on Jupyter Notebook](https://github.com/Henryzeze/BCGX-Data-Science-Internship/blob/main/Task_4_modeling_Completed.ipynb)
+
+
+## Certificate of Completion
+
+![](BCGXcompletion_certificate.jpg)
